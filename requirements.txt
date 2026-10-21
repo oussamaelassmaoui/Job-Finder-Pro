@@ -1,0 +1,9 @@
+customtkinter
+pandas
+openpyxl
+ddgs
+requests
+beautifulsoup4
+openai
+PyMuPDF
+reportlab

@@ -1,0 +1,261 @@
+[
+  {
+    "name": "Indeed",
+    "domain": "indeed.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Offres d'emploi"
+  },
+  {
+    "name": "LinkedIn Jobs",
+    "domain": "linkedin.com/jobs",
+    "enabled": true,
+    "country": "International",
+    "notes": "Offres LinkedIn"
+  },
+  {
+    "name": "Glassdoor",
+    "domain": "glassdoor.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Emploi et avis"
+  },
+  {
+    "name": "Bayt",
+    "domain": "bayt.com",
+    "enabled": true,
+    "country": "MENA",
+    "notes": "Moyen-Orient et Afrique du Nord"
+  },
+  {
+    "name": "ReKrute",
+    "domain": "rekrute.com",
+    "enabled": true,
+    "country": "Maroc",
+    "notes": "Emploi au Maroc"
+  },
+  {
+    "name": "Emploi.ma",
+    "domain": "emploi.ma",
+    "enabled": true,
+    "country": "Maroc",
+    "notes": "Emploi au Maroc"
+  },
+  {
+    "name": "MarocAnnonces",
+    "domain": "marocannonces.com",
+    "enabled": true,
+    "country": "Maroc",
+    "notes": "Annonces et emploi"
+  },
+  {
+    "name": "ANAPEC",
+    "domain": "anapec.org",
+    "enabled": true,
+    "country": "Maroc",
+    "notes": "Agence nationale"
+  },
+  {
+    "name": "Welcome to the Jungle",
+    "domain": "welcometothejungle.com",
+    "enabled": true,
+    "country": "Europe",
+    "notes": "Emploi et entreprises"
+  },
+  {
+    "name": "Jooble",
+    "domain": "jooble.org",
+    "enabled": true,
+    "country": "International",
+    "notes": "Moteur d'offres"
+  },
+  {
+    "name": "Talent.com",
+    "domain": "talent.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Moteur d'offres"
+  },
+  {
+    "name": "Adzuna",
+    "domain": "adzuna.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Moteur d'offres"
+  },
+  {
+    "name": "Careerjet",
+    "domain": "careerjet.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Moteur d'offres"
+  },
+  {
+    "name": "Monster",
+    "domain": "monster.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Offres d'emploi"
+  },
+  {
+    "name": "ZipRecruiter",
+    "domain": "ziprecruiter.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Offres d'emploi"
+  },
+  {
+    "name": "SimplyHired",
+    "domain": "simplyhired.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Offres d'emploi"
+  },
+  {
+    "name": "CareerBuilder",
+    "domain": "careerbuilder.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Offres d'emploi"
+  },
+  {
+    "name": "France Travail",
+    "domain": "francetravail.fr",
+    "enabled": true,
+    "country": "France",
+    "notes": "Service public français"
+  },
+  {
+    "name": "Apec",
+    "domain": "apec.fr",
+    "enabled": true,
+    "country": "France",
+    "notes": "Cadres"
+  },
+  {
+    "name": "HelloWork",
+    "domain": "hellowork.com",
+    "enabled": true,
+    "country": "France",
+    "notes": "Emploi en France"
+  },
+  {
+    "name": "EURES",
+    "domain": "europa.eu/eures",
+    "enabled": true,
+    "country": "Europe",
+    "notes": "Mobilité professionnelle européenne"
+  },
+  {
+    "name": "XING Jobs",
+    "domain": "xing.com/jobs",
+    "enabled": true,
+    "country": "Germany",
+    "notes": "Emploi germanophone"
+  },
+  {
+    "name": "Keejob",
+    "domain": "keejob.com",
+    "enabled": true,
+    "country": "Tunisie",
+    "notes": "Emploi en Tunisie"
+  },
+  {
+    "name": "Tanitjobs",
+    "domain": "tanitjobs.com",
+    "enabled": true,
+    "country": "Tunisie",
+    "notes": "Emploi en Tunisie"
+  },
+  {
+    "name": "Novojob",
+    "domain": "novojob.com",
+    "enabled": true,
+    "country": "Afrique du Nord",
+    "notes": "Emploi régional"
+  },
+  {
+    "name": "Jobijoba",
+    "domain": "jobijoba.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "Optioncarriere",
+    "domain": "optioncarriere.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "StepStone",
+    "domain": "stepstone.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "EURES",
+    "domain": "eures.europa.eu",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "JobTeaser",
+    "domain": "jobteaser.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "EuroJobs",
+    "domain": "eurojobs.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "JobisJob",
+    "domain": "jobisjob.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "GrabJobs",
+    "domain": "grabjobs.co",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "JobRapido",
+    "domain": "jobrapido.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "CareerBliss",
+    "domain": "careerbliss.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "Lensa",
+    "domain": "lensa.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  },
+  {
+    "name": "FlexJobs",
+    "domain": "flexjobs.com",
+    "enabled": true,
+    "country": "International",
+    "notes": "Source intégrée"
+  }
+]

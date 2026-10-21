@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+settings.json
+*secret*
+*credentials*
+*api_key*
+*apikey*
+
+# User data and generated documents
+*.pdf
+*.docx
+*.xlsx
+*.xls
+*.csv
+!requirements.txt
+# Keep source/configuration files that are part of the project
+!sites.json
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
